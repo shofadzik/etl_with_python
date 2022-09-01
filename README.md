@@ -1,1 +1,1 @@
-# etl_with_python
+script extract, transform and load dengan python
